@@ -1,10 +1,9 @@
 Create an interactive Dice Roller app - Solution Code
 =====================================================
 
-Solution code for the Android Basics in Kotlin: Create an interactive Dice Roller app codelab.
-Starter code for the Android Basics in Kotlin:  Add more conditional behavior in Kotlin codelab.
+Solution code for the Android Basics in Kotlin: Create an interactive Dice Roller
 
-Introduction
+<!--Introduction
 ------------
 In this codelab, you build an Android app that rolls a dice and shows the result on screen.
 
@@ -24,3 +23,4 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+-->
